@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="640" viewBox="0 0 1280 640">
+<defs><radialGradient id="bg" cx="80%" cy="45%" r="70%"><stop offset="0" stop-color="#17191e"/><stop offset=".58" stop-color="#08090b"/><stop offset="1" stop-color="#000"/></radialGradient></defs>
+<rect width="1280" height="640" fill="url(#bg)"/><rect width="1280" height="640" fill="none" stroke="#1e2025" stroke-width="2"/>
+<text x="84" y="111" font-family="Inter,Arial" font-size="25" font-weight="650" letter-spacing="5" fill="#858b95">NEOLORENZO</text>
+<text x="84" y="245" font-family="Inter,Arial" font-size="59" font-weight="850" fill="#f4f4f5">LORENZO ROQUE</text>
+<text x="84" y="315" font-family="Inter,Arial" font-size="59" font-weight="850" fill="#f4f4f5">DAL FABBRO</text>
+<rect x="84" y="349" width="74" height="5" rx="2.5" fill="#f4f4f5"/>
+<text x="84" y="397" font-family="Inter,Arial" font-size="22" fill="#a0a0a0">AI · simulations · complex systems</text>
+<text x="84" y="526" font-family="Inter,Arial" font-size="13" font-weight="650" letter-spacing="2.4" fill="#70747b">BUILDING SYSTEMS. OBSERVING WHAT EMERGES.</text>
+<g transform="translate(808 108)">
+  <rect x="0" y="0" width="330" height="92" rx="12" fill="#0c0e11" stroke="#252830"/><text x="24" y="38" font-family="Inter,Arial" font-size="14" font-weight="700" letter-spacing="2" fill="#6bc5ff">POLYVISION</text><text x="24" y="65" font-family="Inter,Arial" font-size="16" fill="#cfd3d8">Reinforcement learning</text>
+  <rect x="42" y="118" width="330" height="92" rx="12" fill="#0c0e11" stroke="#252830"/><text x="66" y="156" font-family="Inter,Arial" font-size="14" font-weight="700" letter-spacing="2" fill="#deff75">ECON-ENGINE</text><text x="66" y="183" font-family="Inter,Arial" font-size="16" fill="#cfd3d8">Agent economic simulation</text>
+  <rect x="0" y="236" width="330" height="92" rx="12" fill="#0c0e11" stroke="#252830"/><text x="24" y="274" font-family="Inter,Arial" font-size="14" font-weight="700" letter-spacing="2" fill="#9ed36a">LIFE ENGINE 3D</text><text x="24" y="301" font-family="Inter,Arial" font-size="16" fill="#cfd3d8">Artificial life</text>
+  <rect x="42" y="354" width="330" height="92" rx="12" fill="#0c0e11" stroke="#252830"/><text x="66" y="392" font-family="Inter,Arial" font-size="14" font-weight="700" letter-spacing="2" fill="#0088ff">ARIADNE</text><text x="66" y="419" font-family="Inter,Arial" font-size="16" fill="#cfd3d8">Personal strategy systems</text>
+</g>
+</svg>
