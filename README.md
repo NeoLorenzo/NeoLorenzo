@@ -32,13 +32,13 @@ The project is developed incrementally, with each MVP adding another economic me
 
 ---
 
-### [Lorenzo's Lifting Ledger](https://github.com/NeoLorenzo/Lorenzos-Lifting-Ledger)
+### [Lorenzo's Lifting Ledger](https://github.com/NeoLorenzo/Heracles)
 
 An evidence-aware lifting tracker built around how I actually train.
 
 It combines workout logging with exercise biomechanics, muscle modelling, equipment tracking, estimated strength progression, body-weight data, and an accompanying scientific literature layer.
 
-**[Open the app](https://neolorenzo.github.io/Lorenzos-Lifting-Ledger/)**
+**[Open the app](https://neolorenzo.github.io/Heracles/)**
 
 ---
 
